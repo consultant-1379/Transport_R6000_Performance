@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<feature>
+    <product-id>CNA 403 3884</product-id>
+    <feature-name>Transport (Router 6000) Performance</feature-name>
+    <release>24.2</release>
+    <system-area>Transport</system-area>
+    <datasource-guid>0a1cd6c2-16cc-4f04-8efd-9e71364942e8</datasource-guid>
+    <ericsson-library>true</ericsson-library>
+</feature>
